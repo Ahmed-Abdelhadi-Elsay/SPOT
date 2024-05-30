@@ -797,6 +797,9 @@ section {
         object-fit: cover;
         height: 228px;
     }
+    .footer {
+        margin-top: 10rem;
+    }
     #pricelist .row,
     #services .row{
         display: grid;
