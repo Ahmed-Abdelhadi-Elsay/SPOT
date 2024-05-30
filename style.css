@@ -782,6 +782,21 @@ section {
     html{
         font-size: 60%;
     }
+    .header {
+        padding: 1.5rem 2rem;
+        height: 7.5vh;
+    }
+    .header .logo img {
+        width: 151px;
+        border-radius: 50%;
+        padding-right: 3rem;
+    }
+    #contact .row .map {
+        flex: 1 1 45rem;
+        width: 100%;
+        object-fit: cover;
+        height: 228px;
+    }
     #pricelist .row,
     #services .row{
         display: grid;
